@@ -1,0 +1,2 @@
+# .gitignore ignores /dist/ directory, but NPM's `files` field won't be happy.
+# https://docs.npmjs.com/cli/v7/configuring-npm/package-json#files
