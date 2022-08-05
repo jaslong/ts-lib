@@ -1,6 +1,6 @@
 {
   "name": "@jaslong/ts-lib",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Jason Long <j@jaslong.com> (https://github.com/jaslong)",
   "license": "MIT",
   "description": "Jason's TypeScript Library",
